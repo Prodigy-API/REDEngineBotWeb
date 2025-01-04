@@ -25,7 +25,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="25" height="25" /> Web Showcase
 ![image](https://media.discordapp.net/attachments/1323432529008656434/1324889791564873738/image.png?ex=6779cb45&is=677879c5&hm=636fa5b9c92072864f2630e326306384740db980764a676ed50a3acf6e2dd809&=&width=1389&height=701)
-![image](https://media.discordapp.net/attachments/1323432529008656434/1323434270248665170/Screenshot_2024-12-30_183501.png?ex=67747fb6&is=67732e36&hm=5b0a5c456d4f487c8e814d71d9153e2cef0b156eccb4f5095f2d5dde232c0377&=&width=1391&height=700)
+![image](https://media.discordapp.net/attachments/1323432529008656434/1324919836324663406/image.png?ex=6779e740&is=677895c0&hm=a58a04a9c9f25b60377c7cbc880072d9230944e18faf60f8c87ddade8e3df4c3&=&width=845&height=424)
 ![image](https://media.discordapp.net/attachments/1323432529008656434/1324889877715751004/image.png?ex=6779cb5a&is=677879da&hm=eb7485c1408920787e2abc0708398d5ada0fdeb082b4491e44f1062562755bf7&=&width=1404&height=701)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> <a href="mailto:support.redengine@proton.me">Contact Through mail</a>
